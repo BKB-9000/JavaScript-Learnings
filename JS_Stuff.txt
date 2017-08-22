@@ -1,0 +1,30 @@
+42/2;
+
+
+
+
+
+
+creating a function:
+
+function foo ()
+{
+a=1;
+console.log("next up is..." + a);
+}
+
+calling that function
+
+foo();
+
+
+
+creating a while loop
+
+while (a < 100) 
+{
+a=a+1;
+console.log("next up is..." + a);
+}
+a=0;
+console.log ("aaaand reset to " + a);
